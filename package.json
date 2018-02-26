@@ -1,0 +1,22 @@
+{
+  "name": "zadanie12.5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-szerminski/zadanie12.5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-szerminski/zadanie12.5/issues"
+  },
+  "homepage": "https://github.com/g-szerminski/zadanie12.5#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
